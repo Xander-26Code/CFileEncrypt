@@ -1,0 +1,10 @@
+# Ignore everything in repository root by default
+/*
+
+# Keep ignore rules file itself
+!/.gitignore
+
+# Allow only these files to be uploaded
+!/LICENSE
+!/decrypt.c
+!/encrypt.c
